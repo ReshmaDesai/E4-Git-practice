@@ -8,6 +8,10 @@ public class login {
 	System.out.println("hi");
 	
 	}
+	public void submit()
+	{
+		System.out.println("submit");
+	}
 	
 
 }
