@@ -11,6 +11,7 @@ public class login {
 	public void submit()
 	{
 		System.out.println("submit");
+		System.out.println("submit1");
 	}
 	
 
